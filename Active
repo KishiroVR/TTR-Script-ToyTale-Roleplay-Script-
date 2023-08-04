@@ -1,4 +1,4 @@
 local patched = Instance.new("BoolValue")
 patched.Name = "patchedeeee"
 patched.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
-patched.Value = true
+patched.Value = false
